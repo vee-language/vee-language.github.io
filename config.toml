@@ -1,0 +1,6 @@
+baseURL = "https://vee-language.github.io/"
+languageCode = "en-us"
+title = "Vee"
+
+theme = "whiteplain"
+publishDir = "docs"
